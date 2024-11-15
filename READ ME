@@ -1,0 +1,6 @@
+READ ME
+
+Guess the steps e' un giochino stupidissimo in vue che permette all'utente di inserire 2 punti nella mappa (sia cliccando sulla mappa che tramite i due input) e dopo aver calcolato la distanza in chilometri ti chiede
+la distanza in passi, ed e' qui che viene il bello: 1 passo equivale a 0.75 metri per cui potresti indovinare tentando la sorte (moooolto difficile) o eseguendo dei calcoletti semplici semplici (ma si perde il
+divertimento). Ora che vi ho spiegato la mia creazione, vi lascio divertire ad indovinare i passi!!!
+p.s. ah si quasi dimenticavo, puoi scegliere qualsiasi punto sulla terra ma a quel punto non ci spererei piú sull'indovinare hahaahah
